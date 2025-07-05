@@ -2,11 +2,17 @@
 
 Ecommerce Website is a clean, modern shopping platform built with React and popular libraries. It features product listings, product detail pages, a shopping cart, category browsing, and a smooth user experience.
 
+---
+
 ## 🚀 Live Demo
 https://your-own-ecommerce.netlify.app/
 
+---
+
 ## 📦 GitHub Repository
 https://github.com/sumit-616/Ecommerce-Website
+
+---
 
 ## ✨ Features
 - Product Listings: Browse products with images, prices, and add-to-cart.
@@ -17,6 +23,8 @@ https://github.com/sumit-616/Ecommerce-Website
 - Loading Skeletons: Smooth product loading experience.
 - Toast Notifications: Quick feedback for user actions.
 - Smooth Marquee: Highlight deals or announcements.
+
+---
 
 ## 🛠️ Tech Stack
 - React
@@ -31,6 +39,8 @@ https://github.com/sumit-616/Ecommerce-Website
 - React Hot Toast
 - React Loading Skeleton
 
+---
+
 ## 📥 Installation
 1. Clone the repository:
    git clone https://github.com/sumit-616/Ecommerce-Website.git
@@ -44,11 +54,15 @@ https://github.com/sumit-616/Ecommerce-Website
 
    App runs at http://localhost:3000
 
+---
+
 ## 📄 Pages Overview
 - Home: Browse featured products.
 - Product Details: View details for a product.
 - Cart: Add, remove, update products.
 - Categories: Filter products.
+
+---
 
 ## 🤝 Contributing
 1. Fork the repository
@@ -62,8 +76,7 @@ https://github.com/sumit-616/Ecommerce-Website
    git push origin feature/your-feature-name
 6. Open a Pull Request
 
-## 📄 License
-MIT License
+---
 
 ## 🙌 Author
 Built by Sumit Kumar - https://github.com/sumit-616
